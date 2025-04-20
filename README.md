@@ -23,6 +23,7 @@ I'm a passionate **Embedded Systems Engineer** with a Master's degree in Embedde
 - **[Shell Scripting](https://github.com/ali0403hussain/Shell-Scripting)** - A collection of useful shell scripts for automation and system management tasks.
 - **[CMake Test Tools for C and C++](https://github.com/ali0403hussain/Cmake-Tools-for-C-Cplusplus)** - A setup for testing C/C++ projects using CMake and various testing frameworks.
 - **[Multi-Threaded Element Queue in C++](https://github.com/ali0403hussain/Multi-threaded-element-queue-in-Cplusplus)** - A short but important assignment implementing a multi-threaded element queue for performance optimization.
+- **[DeepDiveIntoCLangauge](https://github.com/ali0403hussain/DeepDiveIntoCLangauge)** - A project for learning C langauge for advance users.
 
 ### ⚡ Fun Facts About Me
 - I'm fascinated by **autonomous systems** and love building smart gadgets for everyday use.
