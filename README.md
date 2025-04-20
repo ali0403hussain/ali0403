@@ -57,7 +57,7 @@ Feel free to explore my repositories and contribute to the exciting world of **e
 
 <h3 align="left">💹 Github Stats:</h3>
 <div>
-  <a href="https://github.com/CharlesDias">
+  <a href="https://github.com/ali0403hussain">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali0403hussain&include_all_commits=true&show_icons=true&theme=dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali0403hussain&count_private=true&layout=compact&theme=dark-mode-only"/>
 </div>
